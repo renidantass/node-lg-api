@@ -1,30 +1,44 @@
 import ssdp from '@achingbrain/ssdp';
 import logger from '../logger/index.js';
+import utils from '../utils/index.js';
 
 const discover = {
     devices: [],
-    instance: null,
-    getInstance() {
-        if(discover.instance === undefined) {
-            discover.instance = await ssdp();
+    bus: null,
+    async getInstance() {
+        if(discover.bus === null) {
+            discover.bus = await ssdp();
         }
+
+        return discover.bus;
+    },
+    getFirstDevice: () => {
+        return discover.devices[0];
+    },
+    getAllDevices: () => {
+        return discover.devices;
     },
     LGTV: () => {
         return {
             run: async function() {
-                const term = 'webos';
-                
-                discover.getInstance();
+                const term = 'webOS TV';
 
-                for await(const service of discover.instance.discover()) {
+                await discover.getInstance();
+
+                const typeOfService = 'urn:schemas-upnp-org:device:MediaRenderer:1';
+
+                for await(const service of discover.bus.discover(typeOfService)) {
                     if(service.details.device.friendlyName.indexOf(term) > -1) {
-                        discover.devices.push(service.details.device);
+                        discover.devices.push({
+                            device: service.details.device,
+                            ip: utils.extractIpFromHost(service.location.host)
+                        });
                     }
                 }
                 
-                logger.info('Devices discovered: ', devices);
+                logger.info('Devices discovered: ', discover.devices);
             
-                return discover.devices;
+                return discover;
             },
             shutdown: async function() {
                 discover.instance.stop(error => {

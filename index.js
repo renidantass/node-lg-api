@@ -1,11 +1,28 @@
-import discover from './services/discover.js';
+import discoverService from './services/discover.js';
 import socket_wrapper from './services/websocket.js';
 import lg_handshaker from './services/lg_handshaker.js';
+import logger from './logger/index.js';
+import eventEmitter from './services/eventEmitter.js';
 
-const device = await discover.LGTV().run();
+const device = {ip: '192.168.15.61'}
+
 socket_wrapper.configure(lg_handshaker);
-socket_wrapper.init('ws://192.168.15.61:3000');
-socket_wrapper.send('')
+await socket_wrapper.init(`ws://${device.ip}:3000`);
+
+eventEmitter.on('ws_ready_to_send_command', async function(response) {
+
+    if(response) {
+        console.log('Ready to send commands');
+        const command = {
+            'id': 'command_1',
+            'type': 'request',
+            'uri': 'ssap://audio/getVolume',
+        };
+        
+        await socket_wrapper.send(JSON.stringify(command));
+    }
+
+})
 
 
 process.on('SIGINT', async () => {
