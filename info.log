@@ -1912,3 +1912,241 @@
 {"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
 {"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":10,\"muted\":false}}]"}
 {"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":10,\"muted\":false}}"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Sending command audio/volumeUp"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Sending command audio/volumeUp"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending command audio/volumeDown"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending command audio/volumeDown"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending command audio/volumeDown"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending command audio/volumeUp"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending command audio/volumeUp"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending command audio/volumeUp"}
+{"level":"info","message":"Sending command audio/volumeUp"}
+{"level":"info","message":"Sending command audio/volumeUp"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending command audio/volumeUp"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending command audio/volumeUp"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending command audio/volumeUp"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending command audio/volumeUp"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending command audio/volumeUp"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending command audio/volumeUp"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending command audio/volumeDown"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending command audio/volumeDown"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending command audio/volumeDown"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending command audio/volumeDown"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending command audio/volumeDown"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending command audio/volumeDown"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending command audio/volumeDown"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending command audio/volumeDown"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending command audio/volumeDown"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending command audio/volumeDown"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending command audio/volumeUp"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"🚀 Server is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Sending command audio/volumeUp"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending command audio/volumeDown"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Sending command audio/volumeDown"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending command audio/volumeUp"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Sending command [object Object]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"error\",\"id\":\"command_1\",\"error\":\"404 no such service or method\",\"payload\":{}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"error\",\"id\":\"command_1\",\"error\":\"404 no such service or method\",\"payload\":{}}"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Sending command [object Object]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"error\",\"id\":\"command_1\",\"error\":\"404 no such service or method\",\"payload\":{}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"error\",\"id\":\"command_1\",\"error\":\"404 no such service or method\",\"payload\":{}}"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://undefined\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"error\",\"id\":\"command_1\",\"error\":\"404 no such service or method\",\"payload\":{}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"error\",\"id\":\"command_1\",\"error\":\"404 no such service or method\",\"payload\":{}}"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":{}}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://undefined\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"error\",\"id\":\"command_1\",\"error\":\"404 no such service or method\",\"payload\":{}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"error\",\"id\":\"command_1\",\"error\":\"404 no such service or method\",\"payload\":{}}"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"{}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://undefined\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"error\",\"id\":\"command_1\",\"error\":\"404 no such service or method\",\"payload\":{}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"error\",\"id\":\"command_1\",\"error\":\"404 no such service or method\",\"payload\":{}}"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"error\",\"id\":\"command_1\",\"error\":\"404 no such service or method\",\"payload\":{}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"error\",\"id\":\"command_1\",\"error\":\"404 no such service or method\",\"payload\":{}}"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"error\",\"id\":\"command_1\",\"error\":\"404 no such service or method\",\"payload\":{}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"error\",\"id\":\"command_1\",\"error\":\"404 no such service or method\",\"payload\":{}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"error\",\"id\":\"command_1\",\"error\":\"404 no such service or method\",\"payload\":{}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"error\",\"id\":\"command_1\",\"error\":\"404 no such service or method\",\"payload\":{}}"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onclose called, connection closed"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"FfGVUpgd.482-1651451596466\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"FfGVUpgd.482-1651451596466\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"EU TE AMO, HINDAYÁ FERREIRA DA SILVA SOUZA, ❤️\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"EU TE AMO, HINDAYÁ FERREIRA DA SILVA SOUZA, ❤️\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"FfGVUpgd.484-1651451635273\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"FfGVUpgd.484-1651451635273\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"EU TE AMO, HINDAYÁ FERREIRA DA SILVA SOUZA, ❤️\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"EU TE AMO, HINDAYÁ FERREIRA DA SILVA SOUZA, ❤️\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"FfGVUpgd.486-1651451642449\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"FfGVUpgd.486-1651451642449\"}}"}
