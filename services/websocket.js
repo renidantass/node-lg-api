@@ -8,6 +8,7 @@ await storage.init();
 
 const socket_wrapper = {
     instance: null,
+    pointerInstance: null,
     isConnected: null,
     configure: (options) => {
         const { getHandshake, makeHandshake } = options;
@@ -41,6 +42,53 @@ const socket_wrapper = {
         }
 
         return socket_wrapper;
+    },
+    initPointerSocket: () => {
+        let command = {
+            'id': 'pointer_',
+            'type': 'request',
+            'uri': `ssap://com.webos.service.networkinput/getPointerInputSocket`
+        };
+
+        eventEmitter.emit('sendCommand', command);
+
+        eventEmitter.on('pointer_', function(message) {
+            socket_wrapper.pointerInstance = new WebSocket(message.payload.socketPath);
+            socket_wrapper.pointerInstance.onmessage = (event) => { logger.info(JSON.stringify(event)) };
+        });
+    },
+    sendButton: (keyName) => {
+        if (socket_wrapper.pointerInstance !== null) {
+            let command = `type:button\nname:${keyName}\n\n`
+            socket_wrapper.pointerInstance.send(command);
+        } else {
+            logger.info('Pointer socket is not connected :c');
+        }
+    },
+    sendCharacter: async(character) => {
+        let command = {
+            'id': 'keyboard_',
+            'type': 'request',
+            'uri': 'ssap://com.webos.service.ime/insertText',
+            'payload': JSON.stringify({ 'text': character, 'replace': false })
+        };
+
+        await socket_wrapper.send(JSON.stringify(command));
+    },
+    sendBackspace: async() => {
+        let command = {
+            'id': 'keyboard_',
+            'type': 'request',
+            'uri': 'ssap://com.webos.service.ime/deleteCharacters',
+            'payload': JSON.stringify({ 'count': 1 })
+        };
+
+        await socket_wrapper.send(JSON.stringify(command));
+    },
+    closePointerSocket: () => {
+        if(socket_wrapper.pointerInstance) {
+            socket_wrapper.pointerInstance.close();
+        }
     },
     init: async(host) => {
         socket_wrapper.instance = new WebSocket(host);

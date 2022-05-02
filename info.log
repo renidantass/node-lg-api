@@ -2150,3 +2150,310 @@
 {"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"EU TE AMO, HINDAYÁ FERREIRA DA SILVA SOUZA, ❤️\\\"}\"}"}
 {"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"FfGVUpgd.486-1651451642449\"}}]"}
 {"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"FfGVUpgd.486-1651451642449\"}}"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"oii amor, ❤️\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"oii amor, ❤️\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"FfGVUpgd.580-1651455606963\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"FfGVUpgd.580-1651455606963\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"tinhamuu, ❤️\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"tinhamuu, ❤️\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"FfGVUpgd.582-1651455625443\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"FfGVUpgd.582-1651455625443\"}}"}
+{"level":"info","message":"socket_wrapper:onclose called, connection closed"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"socket_wrapper:onclose called, connection closed"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"pointer_\",\"type\":\"request\",\"uri\":\"ssap://com.webos.service.networkinput/getPointerInputSocket\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/84a60062efd34e752adaa959b3767dd4b76ba2f6/netinput.pointer.sock\",\"returnValue\":true}}]"}
+{"level":"info","message":"Command [pointer_] emitted, data: {\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/84a60062efd34e752adaa959b3767dd4b76ba2f6/netinput.pointer.sock\",\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onclose called, connection closed"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"pointer_\",\"type\":\"request\",\"uri\":\"ssap://com.webos.service.networkinput/getPointerInputSocket\"}"}
+{"level":"info","message":"Pointer socket is not connected :c"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/0aa079cede2162d3d555071136c7f29b577ff0dd/netinput.pointer.sock\",\"returnValue\":true}}]"}
+{"level":"info","message":"Command [pointer_] emitted, data: {\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/0aa079cede2162d3d555071136c7f29b577ff0dd/netinput.pointer.sock\",\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"tinhamuu, ❤️\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"tinhamuu, ❤️\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.11-1651489767965\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.11-1651489767965\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.14-1651489820146\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.14-1651489820146\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onclose called, connection closed"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"pointer_\",\"type\":\"request\",\"uri\":\"ssap://com.webos.service.networkinput/getPointerInputSocket\"}"}
+{"level":"info","message":"Pointer socket is not connected :c"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/c2ccf54782e859c9c391e3b9e5d65781281a949e/netinput.pointer.sock\",\"returnValue\":true}}]"}
+{"level":"info","message":"Command [pointer_] emitted, data: {\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/c2ccf54782e859c9c391e3b9e5d65781281a949e/netinput.pointer.sock\",\"returnValue\":true}}"}
+{"level":"info","message":"[object Object]"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.18-1651490059234\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.18-1651490059234\"}}"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"pointer_\",\"type\":\"request\",\"uri\":\"ssap://com.webos.service.networkinput/getPointerInputSocket\"}"}
+{"level":"info","message":"Pointer socket is not connected :c"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/761e12e4c654d2128c62ffd827b4305e9156ceff/netinput.pointer.sock\",\"returnValue\":true}}]"}
+{"level":"info","message":"Command [pointer_] emitted, data: {\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/761e12e4c654d2128c62ffd827b4305e9156ceff/netinput.pointer.sock\",\"returnValue\":true}}"}
+{"level":"info","message":"{}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"{}"}
+{"level":"info","message":"socket_wrapper:onclose called, connection closed"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"pointer_\",\"type\":\"request\",\"uri\":\"ssap://com.webos.service.networkinput/getPointerInputSocket\"}"}
+{"level":"info","message":"Pointer socket is not connected :c"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/0e91e3fbfef06ad2db33d3d069925188b7bba9af/netinput.pointer.sock\",\"returnValue\":true}}]"}
+{"level":"info","message":"Command [pointer_] emitted, data: {\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/0e91e3fbfef06ad2db33d3d069925188b7bba9af/netinput.pointer.sock\",\"returnValue\":true}}"}
+{"level":"info","message":"{}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.24-1651490174159\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.24-1651490174159\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.26-1651490175038\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.26-1651490175038\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.28-1651490175971\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.28-1651490175971\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.30-1651490176823\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.30-1651490176823\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.32-1651490177673\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.32-1651490177673\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.34-1651490178755\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.34-1651490178755\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.36-1651490180226\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.36-1651490180226\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.38-1651490181350\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.38-1651490181350\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.40-1651490182176\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.40-1651490182176\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.42-1651490182855\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.42-1651490182855\"}}"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"pointer_\",\"type\":\"request\",\"uri\":\"ssap://com.webos.service.networkinput/getPointerInputSocket\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/bfd4713067b9848f9d61fad9907c5c59bda73a93/netinput.pointer.sock\",\"returnValue\":true}}]"}
+{"level":"info","message":"Command [pointer_] emitted, data: {\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/bfd4713067b9848f9d61fad9907c5c59bda73a93/netinput.pointer.sock\",\"returnValue\":true}}"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"pointer_\",\"type\":\"request\",\"uri\":\"ssap://com.webos.service.networkinput/getPointerInputSocket\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/e245b84947b3ec532b5b2bfa3610634ae6877c8a/netinput.pointer.sock\",\"returnValue\":true}}]"}
+{"level":"info","message":"Command [pointer_] emitted, data: {\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/e245b84947b3ec532b5b2bfa3610634ae6877c8a/netinput.pointer.sock\",\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"keyboard_\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [keyboard_] emitted, data: {\"type\":\"response\",\"id\":\"keyboard_\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"keyboard_\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [keyboard_] emitted, data: {\"type\":\"response\",\"id\":\"keyboard_\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.71-1651490380392\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.71-1651490380392\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"keyboard_\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [keyboard_] emitted, data: {\"type\":\"response\",\"id\":\"keyboard_\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.75-1651490388900\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.75-1651490388900\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"keyboard_\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [keyboard_] emitted, data: {\"type\":\"response\",\"id\":\"keyboard_\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.79-1651490389741\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.79-1651490389741\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"keyboard_\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [keyboard_] emitted, data: {\"type\":\"response\",\"id\":\"keyboard_\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.83-1651490390237\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.83-1651490390237\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onclose called, connection closed"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"pointer_\",\"type\":\"request\",\"uri\":\"ssap://com.webos.service.networkinput/getPointerInputSocket\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/ea9b2f72733685389dccad38adb8844cf5d44cad/netinput.pointer.sock\",\"returnValue\":true}}]"}
+{"level":"info","message":"Command [pointer_] emitted, data: {\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/ea9b2f72733685389dccad38adb8844cf5d44cad/netinput.pointer.sock\",\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"keyboard_\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [keyboard_] emitted, data: {\"type\":\"response\",\"id\":\"keyboard_\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"keyboard_\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [keyboard_] emitted, data: {\"type\":\"response\",\"id\":\"keyboard_\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.91-1651490473299\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.91-1651490473299\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"keyboard_\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [keyboard_] emitted, data: {\"type\":\"response\",\"id\":\"keyboard_\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.96-1651490474396\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.96-1651490474396\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"keyboard_\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [keyboard_] emitted, data: {\"type\":\"response\",\"id\":\"keyboard_\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.100-1651490474915\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.100-1651490474915\"}}"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"pointer_\",\"type\":\"request\",\"uri\":\"ssap://com.webos.service.networkinput/getPointerInputSocket\"}"}
+{"level":"info","message":"Pointer socket is not connected :c"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/c63a87dbe52027d610f5d290e38b5e3d45638343/netinput.pointer.sock\",\"returnValue\":true}}]"}
+{"level":"info","message":"Command [pointer_] emitted, data: {\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/c63a87dbe52027d610f5d290e38b5e3d45638343/netinput.pointer.sock\",\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.104-1651490521314\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.104-1651490521314\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.106-1651490522387\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.106-1651490522387\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.108-1651490522905\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.108-1651490522905\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.110-1651490533842\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.110-1651490533842\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.112-1651490534413\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.112-1651490534413\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.114-1651490535506\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.114-1651490535506\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.116-1651490552557\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.116-1651490552557\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.118-1651490586550\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.118-1651490586550\"}}"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"pointer_\",\"type\":\"request\",\"uri\":\"ssap://com.webos.service.networkinput/getPointerInputSocket\"}"}
+{"level":"info","message":"Pointer socket is not connected :c"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/6cee1d219b79991d4bdbb3c5becde1b258f7bedd/netinput.pointer.sock\",\"returnValue\":true}}]"}
+{"level":"info","message":"Command [pointer_] emitted, data: {\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/6cee1d219b79991d4bdbb3c5becde1b258f7bedd/netinput.pointer.sock\",\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.122-1651490608555\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.122-1651490608555\"}}"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"pointer_\",\"type\":\"request\",\"uri\":\"ssap://com.webos.service.networkinput/getPointerInputSocket\"}"}
+{"level":"info","message":"Pointer socket is not connected :c"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/5633dcdc16978aaa044ab4cb8d6b19fa0bb541d1/netinput.pointer.sock\",\"returnValue\":true}}]"}
+{"level":"info","message":"Command [pointer_] emitted, data: {\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/5633dcdc16978aaa044ab4cb8d6b19fa0bb541d1/netinput.pointer.sock\",\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.126-1651490703738\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.126-1651490703738\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.128-1651490713219\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.128-1651490713219\"}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onclose called, connection closed"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"pointer_\",\"type\":\"request\",\"uri\":\"ssap://com.webos.service.networkinput/getPointerInputSocket\"}"}
+{"level":"info","message":"Pointer socket is not connected :c"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/c023a639fcc452a6d55097feb2e1021755ea952c/netinput.pointer.sock\",\"returnValue\":true}}]"}
+{"level":"info","message":"Command [pointer_] emitted, data: {\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/c023a639fcc452a6d55097feb2e1021755ea952c/netinput.pointer.sock\",\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"system.notifications/createToast\",\"payload\":{\"message\":\"teste\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"command_1\",\"type\":\"request\",\"uri\":\"ssap://system.notifications/createToast\",\"payload\":\"{\\\"message\\\":\\\"teste\\\"}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.132-1651490773180\"}}]"}
+{"level":"info","message":"Command [command_1] emitted, data: {\"type\":\"response\",\"id\":\"command_1\",\"payload\":{\"returnValue\":true,\"toastId\":\"i7zAxdm2.132-1651490773180\"}}"}

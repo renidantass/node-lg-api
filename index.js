@@ -32,6 +32,8 @@ eventEmitter.on('ws_ready_to_send_command', async function(response) {
             
             await socket_wrapper.send(JSON.stringify(command));
         });
+
+        socket_wrapper.initPointerSocket();
     }
 })
 
@@ -47,4 +49,5 @@ app.listen(3000, function() {
 
 process.on('SIGINT', async () => {
     await discover.LGTV().shutdown();
+    socket_wrapper.closePointerSocket();
 });
