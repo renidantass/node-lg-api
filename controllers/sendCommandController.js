@@ -5,9 +5,10 @@ let commandCounter = 0;
 
 const sendCommandWithoutPayload = (req, res) => {
     const command = req.query.command;
+    eventEmitter.once(command, function(response) {
+        res.json(response.payload);
+    });
     eventEmitter.emit('sendCommand', command);
-    commandCounter++;
-    res.end(`Command [${command}] sended`);
 };
 
 const sendCommandWithPayload = (req, res) => {
@@ -16,15 +17,18 @@ const sendCommandWithPayload = (req, res) => {
     logger.info(JSON.stringify(data));
 
     let command = {
-        'id': 'command_1',
+        'id': data.command,
         'type': 'request',
         'uri': `ssap://${data.command}`,
         'payload': JSON.stringify(data.payload)
     };
 
+    eventEmitter.once(data.command, function(response) {
+        res.json(response.payload);
+    });
+
     eventEmitter.emit('sendCommand', command);
     commandCounter++;
-    res.end(`Command [${command}] sended`);
 };
 
 export default {
