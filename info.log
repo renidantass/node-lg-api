@@ -3791,3 +3791,1181 @@
 {"level":"info","message":"Sending command \"audio/getVolume\""}
 {"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":1,\"muted\":false}}]"}
 {"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":1,\"muted\":false}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onclose called, connection closed"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"pointer_\",\"type\":\"request\",\"uri\":\"ssap://com.webos.service.networkinput/getPointerInputSocket\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/8e29aaa7c761c192f474b6d0ddaed02c0d254cce/netinput.pointer.sock\",\"returnValue\":true}}]"}
+{"level":"info","message":"Command [pointer_] emitted, data: {\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/8e29aaa7c761c192f474b6d0ddaed02c0d254cce/netinput.pointer.sock\",\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onclose called, connection closed"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"pointer_\",\"type\":\"request\",\"uri\":\"ssap://com.webos.service.networkinput/getPointerInputSocket\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/c6d5aafa4fb32562d8d1800381a90151b600f5f2/netinput.pointer.sock\",\"returnValue\":true}}]"}
+{"level":"info","message":"Command [pointer_] emitted, data: {\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/c6d5aafa4fb32562d8d1800381a90151b600f5f2/netinput.pointer.sock\",\"returnValue\":true}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":7,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":7,\"muted\":false}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":7,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":7,\"muted\":false}}"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":1}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":1}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":7}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":7}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":6}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":6}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":4}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":4}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":6}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":6}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending button DOWN"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button DOWN"}
+{"level":"info","message":"Sending button DOWN"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":8,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":8,\"muted\":false}}"}
+{"level":"info","message":"Sending button DOWN"}
+{"level":"info","message":"Sending button ENTER"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":6}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":6}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":14}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":14}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":6}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":6}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":15}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":15}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":7}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":7}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":3}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":3}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":2}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":2}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":4}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":4}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":7}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":7}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending button ENTER"}
+{"level":"info","message":"Sending button ENTER"}
+{"level":"info","message":"Sending button ENTER"}
+{"level":"info","message":"Sending button ENTER"}
+{"level":"info","message":"Sending button DOWN"}
+{"level":"info","message":"Sending button DOWN"}
+{"level":"info","message":"Sending button UP"}
+{"level":"info","message":"Sending button ENTER"}
+{"level":"info","message":"Sending button ENTER"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":7,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":7,\"muted\":false}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":7,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":7,\"muted\":false}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":7,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":7,\"muted\":false}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":7,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":7,\"muted\":false}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":7,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":7,\"muted\":false}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":7,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":7,\"muted\":false}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":7,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":7,\"muted\":false}}"}
+{"level":"info","message":"socket_wrapper:onclose called, connection closed"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"pointer_\",\"type\":\"request\",\"uri\":\"ssap://com.webos.service.networkinput/getPointerInputSocket\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/011025164881b60e1c1780e575054c796cb3e705/netinput.pointer.sock\",\"returnValue\":true}}]"}
+{"level":"info","message":"Command [pointer_] emitted, data: {\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/011025164881b60e1c1780e575054c796cb3e705/netinput.pointer.sock\",\"returnValue\":true}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":8,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":8,\"muted\":false}}"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"pointer_\",\"type\":\"request\",\"uri\":\"ssap://com.webos.service.networkinput/getPointerInputSocket\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/dbb7d0a39060880f61fa52e8f31eb91dc38f5695/netinput.pointer.sock\",\"returnValue\":true}}]"}
+{"level":"info","message":"Command [pointer_] emitted, data: {\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/dbb7d0a39060880f61fa52e8f31eb91dc38f5695/netinput.pointer.sock\",\"returnValue\":true}}"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"pointer_\",\"type\":\"request\",\"uri\":\"ssap://com.webos.service.networkinput/getPointerInputSocket\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/ad64d0fdf5b066aa349f792505d90ace6c1c5545/netinput.pointer.sock\",\"returnValue\":true}}]"}
+{"level":"info","message":"Command [pointer_] emitted, data: {\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/ad64d0fdf5b066aa349f792505d90ace6c1c5545/netinput.pointer.sock\",\"returnValue\":true}}"}
+{"level":"info","message":"Response received undefined"}
+{"level":"info","message":"Response received true"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"pointer_\",\"type\":\"request\",\"uri\":\"ssap://com.webos.service.networkinput/getPointerInputSocket\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/25909b36e09b94295b3c4b6beff9aff9b4cd61c6/netinput.pointer.sock\",\"returnValue\":true}}]"}
+{"level":"info","message":"Command [pointer_] emitted, data: {\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/25909b36e09b94295b3c4b6beff9aff9b4cd61c6/netinput.pointer.sock\",\"returnValue\":true}}"}
+{"level":"info","message":"Response received true"}
+{"level":"info","message":"Response received true"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"pointer_\",\"type\":\"request\",\"uri\":\"ssap://com.webos.service.networkinput/getPointerInputSocket\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/269f5bbf11ecb27d0099e806cdc4fc57486dcc9b/netinput.pointer.sock\",\"returnValue\":true}}]"}
+{"level":"info","message":"Command [pointer_] emitted, data: {\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/269f5bbf11ecb27d0099e806cdc4fc57486dcc9b/netinput.pointer.sock\",\"returnValue\":true}}"}
+{"level":"info","message":"Response received true"}
+{"level":"info","message":"Response received true"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"pointer_\",\"type\":\"request\",\"uri\":\"ssap://com.webos.service.networkinput/getPointerInputSocket\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/1808e6f14567ebf31dda7a4a7b23c3b4b902ea19/netinput.pointer.sock\",\"returnValue\":true}}]"}
+{"level":"info","message":"Command [pointer_] emitted, data: {\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/1808e6f14567ebf31dda7a4a7b23c3b4b902ea19/netinput.pointer.sock\",\"returnValue\":true}}"}
+{"level":"info","message":"Response received [null/true]"}
+{"level":"info","message":"Response received [null/true]"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"pointer_\",\"type\":\"request\",\"uri\":\"ssap://com.webos.service.networkinput/getPointerInputSocket\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/c257cca76c40af4e543b5e1734ff7ea8938ac435/netinput.pointer.sock\",\"returnValue\":true}}]"}
+{"level":"info","message":"Command [pointer_] emitted, data: {\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/c257cca76c40af4e543b5e1734ff7ea8938ac435/netinput.pointer.sock\",\"returnValue\":true}}"}
+{"level":"info","message":"Response received [true]"}
+{"level":"info","message":"Response received [true]"}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"pointer_\",\"type\":\"request\",\"uri\":\"ssap://com.webos.service.networkinput/getPointerInputSocket\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/30373fb395204a4dbb96e0410628c81bb77486d7/netinput.pointer.sock\",\"returnValue\":true}}]"}
+{"level":"info","message":"Command [pointer_] emitted, data: {\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/30373fb395204a4dbb96e0410628c81bb77486d7/netinput.pointer.sock\",\"returnValue\":true}}"}
+{"level":"info","message":"Response received [true]"}
+{"level":"info","message":"Response received [true]"}
+{"level":"info","message":"Response received [true]"}
+{"level":"info","message":"Response received [true]"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onclose called, connection closed"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Response received [true]"}
+{"level":"info","message":"Response received [true]"}
+{"level":"info","message":"Response received [true]"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button UP"}
+{"level":"info","message":"Sending button ENTER"}
+{"level":"info","message":"Sending button DOWN"}
+{"level":"info","message":"Response received [true]"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button ENTER"}
+{"level":"info","message":"Sending button ENTER"}
+{"level":"info","message":"Sending button ENTER"}
+{"level":"info","message":"Sending button ENTER"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button UP"}
+{"level":"info","message":"Sending button UP"}
+{"level":"info","message":"Sending button UP"}
+{"level":"info","message":"Sending button DOWN"}
+{"level":"info","message":"Sending button DOWN"}
+{"level":"info","message":"Sending button DOWN"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button UP"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"🚀 API is running 🚀"}
+{"level":"info","message":"Connected to: [ws://192.168.15.61:3000]"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}]"}
+{"level":"info","message":"Response received from register device {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Command [register_0] emitted, data: {\"type\":\"registered\",\"id\":\"register_0\",\"payload\":{\"client-key\":\"04b37f13736c3837f05d203730df9f46\"}}"}
+{"level":"info","message":"Sending command {\"id\":\"pointer_\",\"type\":\"request\",\"uri\":\"ssap://com.webos.service.networkinput/getPointerInputSocket\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/5e65a7b2362cc457616c5a0fb46206db52a257be/netinput.pointer.sock\",\"returnValue\":true}}]"}
+{"level":"info","message":"Command [pointer_] emitted, data: {\"type\":\"response\",\"id\":\"pointer_\",\"payload\":{\"socketPath\":\"ws://192.168.15.61:3000/resources/5e65a7b2362cc457616c5a0fb46206db52a257be/netinput.pointer.sock\",\"returnValue\":true}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":6,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":6,\"muted\":false}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}"}
+{"level":"info","message":"Sending button ENTER"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button ENTER"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}"}
+{"level":"info","message":"Sending button ENTER"}
+{"level":"info","message":"Sending button ENTER"}
+{"level":"info","message":"Sending button ENTER"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button LEFT"}
+{"level":"info","message":"Sending button ENTER"}
+{"level":"info","message":"Sending button ENTER"}
+{"level":"info","message":"Sending button ENTER"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}"}
+{"level":"info","message":"Sending button HOME"}
+{"level":"info","message":"Sending button HOME"}
+{"level":"info","message":"Sending button HOME"}
+{"level":"info","message":"Sending button HOME"}
+{"level":"info","message":"Sending button HOME"}
+{"level":"info","message":"Sending button HOME"}
+{"level":"info","message":"Sending button HOME"}
+{"level":"info","message":"Sending button HOME"}
+{"level":"info","message":"Sending button HOME"}
+{"level":"info","message":"Sending button HOME"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}"}
+{"level":"info","message":"Sending button HOME"}
+{"level":"info","message":"Sending button HOME"}
+{"level":"info","message":"Sending button HOME"}
+{"level":"info","message":"Sending button HOME"}
+{"level":"info","message":"Sending button HOME"}
+{"level":"info","message":"Sending button HOME"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}"}
+{"level":"info","message":"Sending button HOME"}
+{"level":"info","message":"Sending button HOME"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}"}
+{"level":"info","message":"Sending button HOME"}
+{"level":"info","message":"Sending button HOME"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}"}
+{"level":"info","message":"Sending button ENTER"}
+{"level":"info","message":"Sending button BACK"}
+{"level":"info","message":"Sending button ENTER"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}"}
+{"level":"info","message":"Sending button DOWN"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":9,\"muted\":false}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":8,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":8,\"muted\":false}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":8,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":8,\"muted\":false}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":9}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":9}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":9}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":9}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":7}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":7}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":7}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":7}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":7}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":7}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":7}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":7}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":7}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":7}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":7}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":7}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":7}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":7}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":7}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":7}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":7}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":7}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":7}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":7}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":7}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":7}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":7}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":7}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":9}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":9}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":9}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":9}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":7}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":7}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":7}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":7}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":7}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":7}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":7}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":7}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":7}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":7}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":7}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":7}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":7,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":7,\"muted\":false}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":7,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":7,\"muted\":false}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":7,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":7,\"muted\":false}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":6}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":6}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":5}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":5}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":4}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":4}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":5}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":5}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":6}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":6}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":7}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":7}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":9}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":9}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":7}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":7}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":6}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":6}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":5}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":5}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":4}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":4}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":3}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":3}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":2}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":2}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":1}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":1}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":0}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":0}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":1}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":1}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":2}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":2}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":3}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":3}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":4}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":4}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":5}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":5}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":6}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":6}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":7}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":7}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":9}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":9}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":9}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":9}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":9}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":9}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":7}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":7}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":6}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":6}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":5}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":5}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":4}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":4}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":3}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":3}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":2}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":2}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":1}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":1}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":0}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":0}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":1}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":1}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":2}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":2}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":3}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":3}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":4}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":4}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":5}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":5}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":6}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":6}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":7}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":7}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":8,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":8,\"muted\":false}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":8,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":8,\"muted\":false}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":8,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":8,\"muted\":false}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":8,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":8,\"muted\":false}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":7}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":7}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":7}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":7}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":7}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":7}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":7}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":7}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":7}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":7}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":8}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":8}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":8,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":8,\"muted\":false}}"}
+{"level":"info","message":"Sending button HOME"}
+{"level":"info","message":"Sending button HOME"}
+{"level":"info","message":"{\"command\":\"audio/setVolume\",\"payload\":{\"volume\":7}}"}
+{"level":"info","message":"Sending command {\"id\":\"audio/setVolume\",\"type\":\"request\",\"uri\":\"ssap://audio/setVolume\",\"payload\":\"{\\\"volume\\\":7}\"}"}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}]"}
+{"level":"info","message":"Command [audio/setVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/setVolume\",\"payload\":{\"returnValue\":true}}"}
+{"level":"info","message":"Sending button HOME"}
+{"level":"info","message":"Sending button HOME"}
+{"level":"info","message":"Sending button HOME"}
+{"level":"info","message":"Sending button HOME"}
+{"level":"info","message":"Sending button HOME"}
+{"level":"info","message":"Sending button HOME"}
+{"level":"info","message":"Sending command \"audio/getVolume\""}
+{"level":"info","message":"socket_wrapper:onmessage, message received [{\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":8,\"muted\":false}}]"}
+{"level":"info","message":"Command [audio/getVolume] emitted, data: {\"type\":\"response\",\"id\":\"audio/getVolume\",\"payload\":{\"returnValue\":true,\"scenario\":\"mastervolume_tv_speaker_ext\",\"volume\":8,\"muted\":false}}"}
+{"level":"info","message":"Sending button RIGHT"}
+{"level":"info","message":"Sending button ENTER"}

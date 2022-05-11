@@ -1,4 +1,6 @@
-import eventEmitter from "../services/eventEmitter.js";
+import wol from "wol";
+import { eventEmitter } from "../services/eventEmitter.js";
+import socket_wrapper from "../services/websocket.js";
 import logger from "../logger/index.js";
 
 const sendButton = (req, res) => {
@@ -8,9 +10,10 @@ const sendButton = (req, res) => {
 };
 
 const toggleOnOff = (req, res) => {
-    const command = req.query.command;
-    eventEmitter.emit('sendCommand', command);
-    res.json({ 'message': `Toggled` });
+    wol.wake(socket_wrapper.mac, function (err, result) {
+        logger.info(`Response received [${result}]`);
+        res.json({ 'message': `Response received [${result}]` });
+    })
 };
 
 export default {

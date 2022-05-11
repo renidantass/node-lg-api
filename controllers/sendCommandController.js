@@ -1,4 +1,4 @@
-import eventEmitter from "../services/eventEmitter.js";
+import { eventEmitter } from "../services/eventEmitter.js";
 import logger from "../logger/index.js";
 
 let commandCounter = 0;

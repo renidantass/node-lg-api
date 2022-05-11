@@ -1,4 +1,4 @@
-import eventEmitter from './eventEmitter.js';
+import { eventEmitter } from './eventEmitter.js';
 import WebSocket from 'ws';
 import storage from "node-persist";
 import logger from '../logger/index.js';
@@ -9,6 +9,7 @@ await storage.init();
 const socket_wrapper = {
     instance: null,
     pointerInstance: null,
+    mac: null,
     isConnected: null,
     configure: (options) => {
         const { getHandshake, makeHandshake } = options;

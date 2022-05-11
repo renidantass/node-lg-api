@@ -1,5 +1,5 @@
 import storage from "node-persist";
-import eventEmitter from "./eventEmitter.js";
+import { eventEmitter } from "./eventEmitter.js";
 import logger from "../logger/index.js";
 
 await storage.init();
